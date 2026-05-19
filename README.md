@@ -67,10 +67,10 @@ gold-analytics-portfolio/
 │   └── 03_run_analysis.py   ← Runs all SQL files, prints results
 │
 ├── sql/
-│   ├── 01_cohort_retention.sql   ← Weekly cohort retention grid
-│   ├── 02_funnel_analysis.sql    ← Registration → activation → repeat funnel
-│   ├── 03_revenue_analysis.sql   ← Monthly trend + channel breakdown
-│   └── 04_user_behavior.sql      ← RFM segmentation
+│   ├── cohort_retention.sql   ← Weekly cohort retention grid
+│   ├── funnel_analysis.sql    ← Registration → activation → repeat funnel
+│   ├── revenue_analysis.sql   ← Monthly trend + channel breakdown
+│   └── user_behavior.sql      ← RFM segmentation
 │
 ├── insights/
 │   └── business_insights.md      ← Plain-English findings and actions
