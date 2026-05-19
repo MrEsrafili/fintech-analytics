@@ -1,4 +1,4 @@
-# Gold Trading Analytics — SQL & Cohort Analysis Portfolio
+# Fintech Trading Analytics — SQL & Cohort Analysis Portfolio
 
 > A marketing analytics project built on anonymised data from a digital gold trading platform.  
 > Demonstrates SQL querying, cohort retention modelling, funnel analysis, and user segmentation.
