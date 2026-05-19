@@ -1,0 +1,11 @@
+# Core data stack — all included in a standard Anaconda install
+pandas>=2.0
+# sqlite3 is part of Python's standard library — no install needed
+
+# Optional: for running SQL interactively in a notebook
+jupyterlab>=4.0
+ipython-sql>=0.5
+
+# Optional: quick data visualisation
+matplotlib>=3.7
+seaborn>=0.12
